@@ -12,7 +12,7 @@ This Notebook relies on the pre-trained ResNet-18 model as its basis, and modifi
 - `README.md`: This file containing documentation of this project.
 - `data/`: Skeleton directory to place the dataset (not included). Instructions for obtaining the dataset are included in the README within this directory.
 
-## Hardware and Software Prequisites
+## Hardware and Software Prerequisites
 1. NVIDIA Jetson Nano Developer Kit
 2. NVIDIA DLI Nano Docker Container with matplotlib installed
 3. Kaggle account to obtain ASL alphabet dataset
